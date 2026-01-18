@@ -1,6 +1,8 @@
 # Thoughtful Skills
 
-Skills for AI coding agents to use [Thoughtful](https://www.tokatsu.ai) as a persistent knowledge layer.
+Skills for AI coding agents to use [Thoughtful](https://www.tokatsu.ai) as a collaborative knowledge layer.
+
+**Why Thoughtful over markdown files?** Thoughtful is web-based with mobile and desktop apps, real-time multiplayer collaboration, and team chat. Capture strategy on your phone, collaborate with non-technical teammates, and connect it to your git workflow rather than being driven by it.
 
 ## Installation
 

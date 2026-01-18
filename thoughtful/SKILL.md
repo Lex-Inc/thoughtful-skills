@@ -12,7 +12,9 @@ description: |
 
 # Thoughtful CLI
 
-Thoughtful is a persistent storage layer for managing projects, ideas, insights, and knowledge that persists across sessions.
+Thoughtful is a collaborative knowledge layer for managing projects, ideas, insights, and strategy that persists across sessions.
+
+Unlike markdown files in a repo, Thoughtful is web-based with mobile and desktop apps, real-time multiplayer collaboration, and team chat. This makes it ideal for strategy work, capturing ideas on the go, and collaborating with non-technical teammates. It connects to your git workflow rather than being driven by it.
 
 ## Installation
 
