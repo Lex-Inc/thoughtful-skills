@@ -28,15 +28,15 @@ If not installed, offer to install it for the user:
 
 ```bash
 # Install via npm
-npm install -g thoughtful
+npm install -g @lex-inc/thoughtful
 
 # Or install via bun
-bun install -g thoughtful
+bun install -g @lex-inc/thoughtful
 ```
 
 ### Account Setup
 
-The CLI requires an existing Thoughtful account. New users must sign up at https://www.tokatsu.ai/signup first, then use `thoughtful login` to authenticate.
+The CLI requires an existing Thoughtful account. New users must sign up at https://thoughtful.app/signup first, then use `thoughtful login` to authenticate.
 
 ### Project Setup
 
@@ -122,7 +122,7 @@ thoughtful threads send <thread-id> "Update or question"
 
 When a user wants to set up Thoughtful:
 
-1. **Check installation**: `which thoughtful` — if not found, install via `npm install -g thoughtful` or `bun install -g thoughtful`
+1. **Check installation**: `which thoughtful` — if not found, install via `npm install -g @lex-inc/thoughtful` or `bun install -g @lex-inc/thoughtful`
 2. **Authenticate**: `thoughtful login`
 3. **Verify workspace**: `thoughtful whoami`
 4. **List existing pages**: `thoughtful pages list`
